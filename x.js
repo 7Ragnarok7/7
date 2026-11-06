@@ -20,7 +20,7 @@ document.documentElement.innerHTML = `
     </style>
 </head>
 <body>
-    <img src="https://www.netspi.com/wp-content/uploads/2023/03/NetSPI-Logo.svg" alt="NETSPI">
+    <img src="https://www.netspi.com/wp-content/uploads/2024/04/logo-1.svg" alt="NETSPI">
 </body>
 </html>
 `;
